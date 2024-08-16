@@ -5,6 +5,8 @@ Fullstack и инди разработчик
 ### Фронтенд
 [![My Frontend Skills](https://skillicons.dev/icons?i=ts,js,react,svelte,html,css,md)](https://skillicons.dev)
 
+### Бэкенд
+[![My Backend Skills](https://skillicons.dev/icons?i=bun,node,docker,sql,postgres,sqlite)](https://skillicons.dev)
 <!--
 **zelenovsky/zelenovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
