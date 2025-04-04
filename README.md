@@ -8,7 +8,7 @@ Frontend разработчик.
 [![My Frontend Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,html,css,tailwind,md)](https://skillicons.dev)
 
 ### Бэкенд
-[![My Backend Skills](https://skillicons.dev/icons?i=ts,js,bun,nodejs,go,ruby,ubuntu,docker,postgres,sqlite)](https://skillicons.dev)
+[![My Backend Skills](https://skillicons.dev/icons?i=ts,js,bun,nodejs,ruby,ubuntu,docker,postgres,sqlite)](https://skillicons.dev)
 
 ### Инструменты
 [![My Tools](https://skillicons.dev/icons?i=git,github,notion,postman,figma)](https://skillicons.dev)
